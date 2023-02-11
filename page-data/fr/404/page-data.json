@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-pages-404-js",
+    "path": "/fr/404/",
+    "result": {"pageContext":{"matchPath":"/fr/fr/*","language":"fr","i18n":{"language":"fr","languages":["en","fr"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":true,"originalPath":"/404/","path":"fr/404/"}}},
+    "staticQueryHashes": ["1413270753","2744905544"],
+    "matchPath": "/fr/fr/*"}
